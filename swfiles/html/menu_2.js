@@ -1,0 +1,24 @@
+var sw_MENU = new Array();
+sw_MENU[0] = new Array("For students", cleanURL_path + "","0","0", "secure", "", "yes", "4", "_blank", "0");
+sw_MENU[1] = new Array("FAQ", cleanURL_path + "faq/","0","0", "secure", "", "no", "9", "_self", "0");
+sw_MENU[2] = new Array("About us", cleanURL_path + "about-us/","0","0", "secure", "", "yes", "51", "_blank", "0");
+sw_MENU[3] = new Array("For advertisers", cleanURL_path + "for-advertisers/","1","0", "secure", "", "no", "56", "_blank", "0");
+sw_MENU[4] = new Array("Overview", cleanURL_path + "for-advertisers/overview/","0","1", "secure", "", "yes", "52", "_blank", "0");
+sw_MENU[5] = new Array("Services", cleanURL_path + "for-advertisers/services/","0","1", "secure", "", "yes", "57", "_blank", "0");
+sw_MENU[6] = new Array("Campaign types", cleanURL_path + "for-advertisers/campaign-types/","0","1", "secure", "", "no", "58", "_blank", "0");
+sw_MENU[7] = new Array("Cases", cleanURL_path + "for-advertisers/cases/","0","1", "secure", "", "no", "59", "_blank", "0");
+sw_MENU[8] = new Array("Eye-tracking study", cleanURL_path + "for-advertisers/eye-tracking-study/","0","1", "secure", "", "no", "66", "_blank", "0");
+sw_MENU[9] = new Array("Jobs", cleanURL_path + "jobs/","0","0", "secure", "", "yes", "53", "_blank", "0");
+sw_MENU[10] = new Array("Blog", cleanURL_path + "blog/","0","0", "secure", "", "yes", "54", "_blank", "0");
+sw_MENU[11] = new Array("App", cleanURL_path + "app/","0","0", "secure", "", "no", "55", "_blank", "0");
+sw_MENU[12] = new Array("Apply", cleanURL_path + "apply/","0","0", "secure", "", "no", "60", "_blank", "0");
+sw_MENU[13] = new Array("Privacy", cleanURL_path + "privacy/","0","0", "secure", "", "no", "11", "_self", "0");
+sw_MENU[14] = new Array("Thank you", cleanURL_path + "advertisers-thank-you/","0","0", "secure", "", "no", "16", "_self", "0");
+sw_MENU[15] = new Array("404", cleanURL_path + "404/","0","0", "secure", "", "no", "45", "_blank", "0");
+sw_MENU[16] = new Array("Thank you for your application", cleanURL_path + "apply-thank-you/","0","0", "secure", "", "no", "61", "_self", "0");
+sw_MENU[17] = new Array("Apply Backup", cleanURL_path + "apply-backup/","0","0", "secure", "", "no", "62", "", "0");
+sw_MENU[18] = new Array("landing page ", cleanURL_path + "for-students-landing-page/","0","0", "secure", "", "no", "63", "_blank", "0");
+sw_MENU[19] = new Array("Create account", cleanURL_path + "create-account/","0","0", "secure", "", "no", "64", "_blank", "0");
+sw_MENU[20] = new Array("Terms and Conditions", cleanURL_path + "terms-and-conditions/","0","0", "secure", "", "no", "67", "_blank", "0");
+swvar_currentlangindex = 0;
+

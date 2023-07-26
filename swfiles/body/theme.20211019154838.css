@@ -1,0 +1,49 @@
+body {
+  /*
+   background-color:#fff;
+   */ }
+
+.s-btn, .s-btn-alt, a.s-btn:link, a.s-btn:active, a.s-btn:visited, a.s-btn-alt:link, a.s-btn-alt:active, a.s-btn-alt:visited {
+  text-decoration: none;
+  display: inline-block;
+  text-align: center;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+  touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none; }
+
+.s-btn:hover, .s-btn-alt:hover, a.s-btn:hover, a.s-btn-alt:hover {
+  text-decoration: none; }
+
+h1:before, h2:before, h3:before, h4:before, h5:before, h6:before, h1:after, h2:after, h3:after, h4:after, h5:after, h6:after {
+  content: "";
+  position: relative;
+  display: block; }
+
+body {
+  font-family: 'Open Sans', sans-serif, sans-serif; }
+
+.sw-logo-text {
+  font-family: 'Open Sans', sans-serif, sans-serif; }
+
+h1, h2, h3, h4, h5, h6, sw_textcat {
+  font-family: 'Open Sans', sans-serif, sans-serif; }
+
+.s-navmenu {
+  font-family: 'Open Sans', sans-serif, sans-serif; }
+
+::selection {
+  background: #8bc53f;
+  color: #fff; }
+
+::-moz-selection {
+  background: #8bc53f;
+  color: #fff; }
+
+.s-tselect {
+  background: #8bc53f;
+  color: #fff; }
